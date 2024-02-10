@@ -1,0 +1,4 @@
+﻿  Practic(10.02.24).cpp
+C:\Users\307-03\Desktop\Kolupaev\Practic(10.02.24)\Practic(10.02.24).cpp(31): warning C4715: GetStartIndex: значение возвращается не при всех путях выполнения
+C:\Users\307-03\Desktop\Kolupaev\Practic(10.02.24)\Practic(10.02.24).cpp(56): warning C4172: возвращение адреса локальной или временной переменной : editString
+  Practic(10.02.24).vcxproj -> C:\Users\307-03\Desktop\Kolupaev\Practic(10.02.24)\x64\Debug\Practic(10.02.24).exe
